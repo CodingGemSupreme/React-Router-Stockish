@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Navigation {
+ display: flex;
+ justify-content:space-between;
+background-color: rgb(224, 255, 182);
+padding: 15px;
+color:black;
+
+
+}
+
+.AllStocksData {
+
+}
